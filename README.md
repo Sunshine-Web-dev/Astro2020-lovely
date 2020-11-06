@@ -1,6 +1,13 @@
 <hr>
 <p align="center">
-    <h2 align="center">🍀 Passionate Full-Stack Web Specialist 🍀</h2>
+    <h2 align = "center">🍀 Passionate Full-Stack Web Specialist 🍀</h2>
+    <p align="center" style="font-family : Inconsolata">
+        ~~~ Thanks for reading ~~~<br>
+        Professional working attitude and an eye for details are my most notable attributes.<br>
+        I am a hardworking, highly proficient IT professional with 5 years’ experience and a real passion for web application development<br>
+        By working 5years, I've mastered web app and got extensive and deep knowledge of web.<br>
+        Being a talented and passionate developer with FULL-TIME AVAILABILITY, I love to work for a LONG-TERM relationship with reasonable clients.
+    </p>
 </p>
 <hr>
 <p align="center">
