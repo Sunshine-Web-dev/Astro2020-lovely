@@ -53,8 +53,8 @@
 </p>
 <hr>
 <p align="center">
-   <a href="https://join.skype.com/invite/UdNf3CCY19Xb"><img src="https://img.icons8.com/nolan/64/skype.png"/></a>
-   <a href="mailto:lovelysong1205@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png"/></a>
-   <a href="https://gitlab.com/Astro2020-lovely"><img src="https://img.icons8.com/nolan/64/gitlab.png"/></a>
+   <a href="https://join.skype.com/invite/UdNf3CCY19Xb" target="_blank"><img src="https://img.icons8.com/nolan/64/skype.png"/></a>
+   <a href="mailto:lovelysong1205@gmail.com" target="_blank"><img src="https://img.icons8.com/nolan/64/gmail.png"/></a>
+   <a href="https://gitlab.com/Astro2020-lovely" target="_blank"><img src="https://img.icons8.com/nolan/64/gitlab.png"/></a>
 </p>
 <hr>
