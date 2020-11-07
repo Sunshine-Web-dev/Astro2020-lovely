@@ -54,15 +54,15 @@
 </p>
 <hr>
 <p align="center">
-   <a href="https://join.skype.com/invite/UdNf3CCY19Xb" target="_blank"><img src="https://img.icons8.com/nolan/64/skype.png"/></a>
-   <a href="mailto:lovelysong1205@gmail.com" target="_blank"><img src="https://img.icons8.com/nolan/64/gmail.png"/></a>
-   <a href="https://gitlab.com/Astro2020-lovely" target="_blank"><img src="https://img.icons8.com/nolan/64/gitlab.png"/></a>
+   <a href="https://join.skype.com/invite/UdNf3CCY19Xb" target="_blank"><img src="https://img.icons8.com/nolan/64/skype.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+   <a href="mailto:lovelysong1205@gmail.com" target="_blank"><img src="https://img.icons8.com/nolan/64/gmail.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+   <a href="https://gitlab.com/Astro2020-lovely" target="_blank"><img src="https://img.icons8.com/nolan/64/gitlab.png"/>
 </p>
 <hr>
 <p align="center">
     <img height="100" src="https://w7.pngwing.com/pngs/850/658/png-transparent-paw-patrol-skye-illustration-cockapoo-puppy-birthday-party-sticker-paw-patrol-purple-child-animals.png"/>
-     <img height="100" src="https://w7.pngwing.com/pngs/811/827/png-transparent-disney-simba-illustration-simba-nala-shenzi-pumbaa-mufasa-pluto-disney-wiki-mammal-cat-like-mammal-carnivoran.png"/>
-     <img height="150" src="https://w7.pngwing.com/pngs/353/179/png-transparent-sonic-the-hedgehog-3-sonic-mania-sonic-forces-sonic-generations-hedgehog-animals-sonic-the-hedgehog-computer-wallpaper.png"/>
-     <img height="100" src="https://w7.pngwing.com/pngs/112/537/png-transparent-paw-patrol-sky-illustration-dog-frosting-icing-paper-printing-iron-on-paw-patrol-animals-textile-wedding-cake-topper.png"/>
+     <img height="120" src="https://w7.pngwing.com/pngs/811/827/png-transparent-disney-simba-illustration-simba-nala-shenzi-pumbaa-mufasa-pluto-disney-wiki-mammal-cat-like-mammal-carnivoran.png"/>
+     <img height="140" src="https://w7.pngwing.com/pngs/353/179/png-transparent-sonic-the-hedgehog-3-sonic-mania-sonic-forces-sonic-generations-hedgehog-animals-sonic-the-hedgehog-computer-wallpaper.png"/>
+     <img height="120" src="https://w7.pngwing.com/pngs/112/537/png-transparent-paw-patrol-sky-illustration-dog-frosting-icing-paper-printing-iron-on-paw-patrol-animals-textile-wedding-cake-topper.png"/>
      <img height="100" src="https://w7.pngwing.com/pngs/563/19/png-transparent-dog-puppy-sea-patrol-pups-save-puplantis-paw-patrol-paw-patrol-character-illustration-miscellaneous-child-carnivoran.png"/>
 </p>
