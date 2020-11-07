@@ -1,6 +1,6 @@
 <hr>
 <p align="center">
-    <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+    <img width="150" src="https://w7.pngwing.com/pngs/363/933/png-transparent-ghost-moto-simulator-death-ride-star-icon-five-pointed-star-badge-game-ribbon-stars.png"/>  
     <h3 align = "center">🍀 Passionate Full-Stack Web Specialist 🍀</h3>
     <p align="center">
         ~~~ Thanks for reading ~~~<br>
@@ -59,3 +59,10 @@
    <a href="https://gitlab.com/Astro2020-lovely" target="_blank"><img src="https://img.icons8.com/nolan/64/gitlab.png"/></a>
 </p>
 <hr>
+<p align="center">
+    <img height="100" src="https://w7.pngwing.com/pngs/850/658/png-transparent-paw-patrol-skye-illustration-cockapoo-puppy-birthday-party-sticker-paw-patrol-purple-child-animals.png"/>
+     <img height="100" src="https://w7.pngwing.com/pngs/811/827/png-transparent-disney-simba-illustration-simba-nala-shenzi-pumbaa-mufasa-pluto-disney-wiki-mammal-cat-like-mammal-carnivoran.png"/>
+     <img height="150" src="https://w7.pngwing.com/pngs/353/179/png-transparent-sonic-the-hedgehog-3-sonic-mania-sonic-forces-sonic-generations-hedgehog-animals-sonic-the-hedgehog-computer-wallpaper.png"/>
+     <img height="100" src="https://w7.pngwing.com/pngs/112/537/png-transparent-paw-patrol-sky-illustration-dog-frosting-icing-paper-printing-iron-on-paw-patrol-animals-textile-wedding-cake-topper.png"/>
+     <img height="100" src="https://w7.pngwing.com/pngs/563/19/png-transparent-dog-puppy-sea-patrol-pups-save-puplantis-paw-patrol-paw-patrol-character-illustration-miscellaneous-child-carnivoran.png"/>
+</p>
