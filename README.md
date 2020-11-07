@@ -1,7 +1,8 @@
 <hr>
 <p align="center">
-    <h2 align = "center">🍀 Passionate Full-Stack Web Specialist 🍀</h2>
-    <p align="center" style="font-family : Inconsolata">
+    <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+    <h3 align = "center">🍀 Passionate Full-Stack Web Specialist 🍀</h3>
+    <p align="center">
         ~~~ Thanks for reading ~~~<br>
         Professional working attitude and an eye for details are my most notable attributes.<br>
         I am a hardworking, highly proficient IT professional with 5 years’ experience and a real passion for web application development<br>
