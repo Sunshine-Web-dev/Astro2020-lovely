@@ -53,9 +53,12 @@
 </p>
 <hr>
 <p align="center">
-   <a href="https://join.skype.com/invite/UdNf3CCY19Xb" target="_blank"><img src="https://img.icons8.com/nolan/64/skype.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <a href="mailto:lovelysong1205@gmail.com" target="_blank"><img src="https://img.icons8.com/nolan/64/gmail.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <a href="https://gitlab.com/Astro2020-lovely" target="_blank"><img src="https://img.icons8.com/nolan/64/gitlab.png"/>
+   <a target="_blank" href="https://join.skype.com/invite/UdNf3CCY19Xb"><img src="https://img.icons8.com/nolan/64/skype.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+   <a target="_blank" href="mailto:lovelysong1205@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+   <a target="_blank" href="https://gitlab.com/Astro2020-lovely"><img src="https://img.icons8.com/nolan/64/gitlab.png"/>
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+   <a target="_blank" href="https://www.freelancer.com/u/viktor00777"><img src="https://img.icons8.com/nolan/64/origami.png"/>
+</a>
 </p>
 <hr>
 <p align="center">
