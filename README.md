@@ -12,7 +12,7 @@
 </p>
 <hr>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Astro2020-lovely&row=2&column=3&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 <hr>
 <p align="center">
