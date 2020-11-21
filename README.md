@@ -64,7 +64,7 @@
 <p align="center">
     <img height="100" src="https://w7.pngwing.com/pngs/850/658/png-transparent-paw-patrol-skye-illustration-cockapoo-puppy-birthday-party-sticker-paw-patrol-purple-child-animals.png"/>
      <img height="120" src="https://w7.pngwing.com/pngs/811/827/png-transparent-disney-simba-illustration-simba-nala-shenzi-pumbaa-mufasa-pluto-disney-wiki-mammal-cat-like-mammal-carnivoran.png"/>
-     <img height="140" src="71299022.png"/>
+     <img height="140" src="avatar.png"/>
      <img height="120" src="https://w7.pngwing.com/pngs/112/537/png-transparent-paw-patrol-sky-illustration-dog-frosting-icing-paper-printing-iron-on-paw-patrol-animals-textile-wedding-cake-topper.png"/>
      <img height="100" src="https://w7.pngwing.com/pngs/563/19/png-transparent-dog-puppy-sea-patrol-pups-save-puplantis-paw-patrol-paw-patrol-character-illustration-miscellaneous-child-carnivoran.png"/>
 </p>
