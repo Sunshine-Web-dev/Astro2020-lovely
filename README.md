@@ -12,7 +12,7 @@
 </p>
 <hr>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&layout=compact&title_color=63cda9&margin-w=15&margin-h=15"/>
 </p>
 <hr>
 <p align="center">
@@ -47,9 +47,9 @@
 </div>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astro2020-lovely&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Astro2020-lovely&show_icons=true&title_color=63cda9&icon_color=63cda9" alt="my github stats" height="190px" />
     &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Astro2020-lovely&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Astro2020-lovely&langs_count=12&layout=compact&title_color=63cda9" height="190px">
 </p>
 <hr>
 <p align="center">
