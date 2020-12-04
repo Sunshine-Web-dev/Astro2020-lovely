@@ -16,7 +16,7 @@
 </p>
 <hr>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Astro2020-lovely&row=3&column=7&layout=compact&title_color=63cda9&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Astro2020-lovely&row=3&column=6&layout=compact&title_color=63cda9&margin-w=15&margin-h=15"/>
 </p>
 <hr>
 <p align="center">
