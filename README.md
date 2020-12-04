@@ -9,10 +9,14 @@
         By working 5years, I've mastered web app and got extensive and deep knowledge of web.<br>
         Being a talented and passionate developer with FULL-TIME AVAILABILITY, I love to work for a LONG-TERM relationship with reasonable clients.
     </p>
+    <hr>
+    <p align="center">
+        <img style="max-width: 100%" height="400" src="https://metrics.lecoq.io/Astro2020-lovely" alt="Github Metrics">
+    </p>
 </p>
 <hr>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&layout=compact&title_color=63cda9&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Astro2020-lovely&row=3&column=7&layout=compact&title_color=63cda9&margin-w=15&margin-h=15"/>
 </p>
 <hr>
 <p align="center">
@@ -47,13 +51,11 @@
 </div>
 <hr>
 <p align="center">
-    <img width="190px" src="https://metrics.lecoq.io/Astro2020-lovely" alt="Github Metrics">
-    <img width="190px" src="https://github-readme-streak-stats.herokuapp.com/?user=Astro2020-lovely" alt="Github Streak Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astro2020-lovely&show_icons=true&title_color=63cda9&icon_color=63cda9" alt="my github stats" height="190px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astro2020-lovely" alt="Github Streak Stats" height="190px">
     &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Astro2020-lovely&langs_count=12&layout=compact&title_color=63cda9" height="190px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Astro2020-lovely&show_icons=true&title_color=63cda9&icon_color=63cda9" alt="my github stats" height="190px" />
+    &nbsp;
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Astro2020-lovely&langs_count=12&layout=compact&title_color=63cda9" height="190px">
 </p>
 <hr>
 <p align="center">
