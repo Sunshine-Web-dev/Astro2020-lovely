@@ -48,10 +48,10 @@
 <hr>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astro2020-lovely" alt="Github Streak Stats" />
-    <br>
+<hr>
     <img src="https://github-readme-stats.vercel.app/api?username=Astro2020-lovely&show_icons=true&title_color=63cda9&icon_color=63cda9" alt="my github stats" height="190px"/>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Astro2020-lovely&langs_count=16&layout=compact&title_color=63cda9" height="190px" />
-    <br>
+<hr>
     <img src="https://metrics.lecoq.io/Astro2020-lovely" alt="Github Metrics" />
 </p>
 <hr>
@@ -71,3 +71,4 @@
      <img height="120" src="https://w7.pngwing.com/pngs/112/537/png-transparent-paw-patrol-sky-illustration-dog-frosting-icing-paper-printing-iron-on-paw-patrol-animals-textile-wedding-cake-topper.png"/>
      <img height="100" src="https://w7.pngwing.com/pngs/563/19/png-transparent-dog-puppy-sea-patrol-pups-save-puplantis-paw-patrol-paw-patrol-character-illustration-miscellaneous-child-carnivoran.png"/>
 </p>
+<hr>
