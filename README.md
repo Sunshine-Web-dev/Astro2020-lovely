@@ -51,8 +51,6 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Astro2020-lovely&show_icons=true&title_color=63cda9&icon_color=63cda9" alt="my github stats" height="190px"/>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Astro2020-lovely&langs_count=16&layout=compact&title_color=63cda9" height="190px" />
-    <br>
-    <img src="https://metrics.lecoq.io/Astro2020-lovely" alt="Github Metrics" />
 </p>
 <hr>
 <p align="center">
