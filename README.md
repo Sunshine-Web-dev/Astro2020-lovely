@@ -1,6 +1,6 @@
 <hr>
 <p align="center">
-    <img width="150" src="https://w7.pngwing.com/pngs/363/933/png-transparent-ghost-moto-simulator-death-ride-star-icon-five-pointed-star-badge-game-ribbon-stars.png"/>  
+    <img width="150" src="f_5475d3dee857f97e.png"/>  
     <h3 align = "center">🍀 Passionate Full-Stack Web Specialist 🍀</h3>
     <p align="center">
         ~~~ Thanks for reading ~~~<br>
@@ -54,19 +54,11 @@
 </p>
 <hr>
 <p align="center">
-   <a target="_blank" href="https://join.skype.com/invite/UdNf3CCY19Xb"><img src="https://img.icons8.com/nolan/64/skype.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+   <a target="_blank" href="https://join.skype.com/invite/YE3Jyx31x2Eg"><img src="https://img.icons8.com/nolan/64/skype.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
    <a target="_blank" href="mailto:lovelysong1205@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
    <a target="_blank" href="https://gitlab.com/Astro2020-lovely"><img src="https://img.icons8.com/nolan/64/gitlab.png"/>
 </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
    <a target="_blank" href="https://www.freelancer.com/u/Raik03"><img src="https://img.icons8.com/nolan/64/origami.png"/>
 </a>
-</p>
-<hr>
-<p align="center">
-    <img height="100" src="https://w7.pngwing.com/pngs/850/658/png-transparent-paw-patrol-skye-illustration-cockapoo-puppy-birthday-party-sticker-paw-patrol-purple-child-animals.png"/>
-     <img height="120" src="https://w7.pngwing.com/pngs/811/827/png-transparent-disney-simba-illustration-simba-nala-shenzi-pumbaa-mufasa-pluto-disney-wiki-mammal-cat-like-mammal-carnivoran.png"/>
-     <img height="140" src="avatar.png"/>
-     <img height="120" src="https://w7.pngwing.com/pngs/112/537/png-transparent-paw-patrol-sky-illustration-dog-frosting-icing-paper-printing-iron-on-paw-patrol-animals-textile-wedding-cake-topper.png"/>
-     <img height="100" src="https://w7.pngwing.com/pngs/563/19/png-transparent-dog-puppy-sea-patrol-pups-save-puplantis-paw-patrol-paw-patrol-character-illustration-miscellaneous-child-carnivoran.png"/>
 </p>
 <hr>
