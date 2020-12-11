@@ -1,6 +1,8 @@
 <hr>
 <p align="center">
-    <img width="150" src="f_5475d3dee857f97e.png"/>  
+    <a target="_blank" href="https://join.skype.com/invite/YE3Jyx31x2Eg">
+        <img width="150" src="f_5475d3dee857f97e.png"/>  
+    </a>
     <h3 align = "center">🍀 Passionate Full-Stack Web Specialist 🍀</h3>
     <p align="center">
         ~~~ Thanks for reading ~~~<br>
@@ -51,14 +53,5 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Astro2020-lovely&show_icons=true&title_color=63cda9&icon_color=63cda9" alt="my github stats" height="190px"/>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Astro2020-lovely&langs_count=16&layout=compact&title_color=63cda9" height="190px" />
-</p>
-<hr>
-<p align="center">
-   <a target="_blank" href="https://join.skype.com/invite/YE3Jyx31x2Eg"><img src="https://img.icons8.com/nolan/64/skype.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <a target="_blank" href="mailto:lovelysong1205@gmail.com"><img src="https://img.icons8.com/nolan/64/gmail.png"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <a target="_blank" href="https://gitlab.com/Astro2020-lovely"><img src="https://img.icons8.com/nolan/64/gitlab.png"/>
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <a target="_blank" href="https://www.freelancer.com/u/Raik03"><img src="https://img.icons8.com/nolan/64/origami.png"/>
-</a>
 </p>
 <hr>
